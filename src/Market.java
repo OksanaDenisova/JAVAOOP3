@@ -59,5 +59,6 @@ public class Market implements MarketBehaviour, QueueBehavior {
     public int size() {
         return queue.size();
     }
+
 }
 
